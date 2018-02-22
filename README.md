@@ -3,4 +3,6 @@ ZCZC Sistem Operasi Awal (1)
 
 ZCZC W00
 
-ZCZC W01
+ZCZC W01 Done
+
+ZCZC W02 Done
